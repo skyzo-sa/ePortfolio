@@ -13,9 +13,9 @@ My journey in Information Systems has led me to develop a passion for cloud, cyb
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python Scripting and Network Automation for Threat Mitigation |<a href="https://www.linkedin.com/posts/tempanza_from-linux-server-installing-library-in-python-activity-7239215271134003201-OBWI?utm_source=share&utm_medium=member_desktop"> Network Automation Lab|
-| Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/posts/tempanza_for-troubleshooting-purposes-you-might-want-activity-7149682497675591681-MOIM?utm_source=share&utm_medium=member_desktop">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/posts/tempanza_for-troubleshooting-purposes-you-might-want-activity-7149682497675591681-MOIM?utm_source=share&utm_medium=member_desktop"> Traffic Analysis Lab</a>|
 | Cisco Router OSPF Configuration      |<a href="https://www.linkedin.com/posts/tempanza_ccna-networking-network-activity-7232684354664075264-Ih1U?utm_source=share&utm_medium=member_desktop"> Dynamic vs Static Routing Lab|
-| Creating an Active Directory, Group Policy, DHCP, DNS                  |<a href="https://www.linkedin.com/pulse/create-active-directory-group-policy-dhcp-dns-home-lab-mpanza/">Active Directory Lab|
+| Creating an Active Directory, Group Policy, DHCP, DNS                  |<a href="https://www.linkedin.com/pulse/create-active-directory-group-policy-dhcp-dns-home-lab-mpanza/">Active Directory & Server Administration Lab|
 
 ## Tools
 
@@ -38,15 +38,20 @@ My journey in Information Systems has led me to develop a passion for cloud, cyb
 
 ## Certifications
 <div>
+    <a href="https://www.credly.com/earner/earned/badge/6d98e566-8590-456d-98e7-ca16304e683c"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://www.credly.com/earner/earned/badge/6d98e566-8590-456d-98e7-ca16304e683c"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+<a href="https://learn.microsoft.com/api/credentials/share/en-za/tmpanza/BABF9D6E8A225013?sharingId=DFE47EAE441DF46D"><img src="https://img.shields.io/badge/-Azure Administrator%2B-FFFF00?&style=for-the-badge&logo=Micrososft&logoColor=white" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-za/tmpanza/59E21F416DEB0698?sharingId=DFE47EAE441DF46D"><img src="https://img.shields.io/badge/-Azure Fundamentals%2B-4B275F?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 
 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Network Automation Lab
+- Traffic Analysis Lab
+- Dynamic vs Static Routing Lab
+- Active Directory & Server Administration Lab
 
 
 <h2> 🤳 Connect with me:</h2>
