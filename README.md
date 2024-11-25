@@ -54,9 +54,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure_Portal-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
 </div>
 
 ### SIEM
@@ -66,20 +64,29 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 
 ## Certifications
 <div>
-    <a href="https://www.credly.com/earner/earned/badge/6d98e566-8590-456d-98e7-ca16304e683c"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<a href="https://learn.microsoft.com/api/credentials/share/en-za/tmpanza/BABF9D6E8A225013?sharingId=DFE47EAE441DF46D"><img src="https://img.shields.io/badge/-Azure Administrator%2B-FFFF00?&style=for-the-badge&logo=Micrososft&logoColor=white" />
-<a href="https://learn.microsoft.com/api/credentials/share/en-za/tmpanza/59E21F416DEB0698?sharingId=DFE47EAE441DF46D"><img src="https://img.shields.io/badge/-Azure Fundamentals%2B-4B275F?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-
-
+    <img src="https://img.shields.io/badge/-Azure_Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Administrator-0078D4?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Yeastar-0095D9?&style=for-the-badge&logo=Yeastar&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sophos-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=red" />
+    <img src="https://img.shields.io/badge/-Security%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
-- Network Automation Lab
-- Traffic Analysis Lab
-- Dynamic vs Static Routing Lab
-- Active Directory & Server Administration Lab
+- Setting up Windows AD & Azure AD environment
+- Building and configuring a Firewall in Linux
+- Setting up and securing a Web Server
+- Network Scanning and Mapping with Nmap
+- Password Cracking with John the Ripper
+- Implementing (IAM) policies in Azure
+- Building a Virtual Private Cloud (VPC)
+- Configuring Cloud Security Monitoring and Logging
+- Deploying a Web Application Firewall in Azure
+- Implementing Data Encryption in Azure
+- Implementing Azure Sentinel (SIEM)
+- Implementing File Integrity Monitor (FIM)
+- Configuring VLANs and Subnets
+- Python Network Automation
 
 
 <h2> 🤳 Connect with me:</h2>
