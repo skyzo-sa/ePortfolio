@@ -44,7 +44,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-N--Central-FF6A00?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos_Firewall-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows_Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-800080?&style=for-the-badge&logo=Windows_Server&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C8C?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 
