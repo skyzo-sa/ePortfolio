@@ -33,19 +33,30 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNS3-0078D4?&style=for-the-badge&logo=GNS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-N--Central-FF6A00?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sophos_Firewall-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows_Server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C8C?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+
+
 </div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure_Portal-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_365-D83B01?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+
 </div>
 
 ### SIEM
