@@ -13,7 +13,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 |-----------------------------------------------|----------------------------|
 | Setting up Windows AD & Azure AD environment |<a href="https://google.co.za"> System Administration Lab|
 | Building and configuring a Firewall in Linux  |<a href="https://google.co.za"> Security and Compliance Lab|
-| Setting up and securing a web server |<a href="https://google.co.za"> Security and Compliance Lab|
+| Setting up and securing a Web Server |<a href="https://google.co.za"> Security and Compliance Lab|
 | Network Scanning and Mapping with Nmap |<a href="https://google.co.za"> Network Scanning Lab|
 | Password Cracking with John the Ripper |<a href="https://google.co.za"> Password Cracking & Brute Force Techniques Lab|
 | Implementing (IAM) policies in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
@@ -38,6 +38,12 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure_Portal-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
