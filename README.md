@@ -75,7 +75,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ## Projects
 - <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
-- <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main)">Setting up and securing a Web Server</a>
+- <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
 - Network Scanning and Mapping with Nmap
 - Password Cracking with John the Ripper
 - Implementing (IAM) policies in Azure
