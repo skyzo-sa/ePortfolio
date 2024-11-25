@@ -11,7 +11,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting up Windows AD & Azure AD environment |<a href="https://google.co.za"> System Administration Lab|
+| Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
 | Building and configuring a Firewall in Linux  |<a href="https://google.co.za"> Security and Compliance Lab|
 | Setting up and securing a Web Server |<a href="https://google.co.za"> Security and Compliance Lab|
 | Network Scanning and Mapping with Nmap |<a href="https://google.co.za"> Network Scanning Lab|
@@ -73,7 +73,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 </div>
 
 ## Projects
-- Setting up Windows AD & Azure AD environment
+- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 - Building and configuring a Firewall in Linux
 - Setting up and securing a Web Server
 - Network Scanning and Mapping with Nmap
