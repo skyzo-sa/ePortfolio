@@ -32,7 +32,8 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0078D7?&style=for-the-badge&logo=linux&logoColor=white" />
+
 </div>
 
 ### Endpoint
