@@ -14,7 +14,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
 | Building and configuring a Firewall in Linux  |<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Security and Compliance Lab|
 | Setting up and securing a Web Server |<a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main"> Security and Compliance Lab|
-| Network Scanning and Mapping with Nmap |<a href="https://google.co.za"> Network Scanning Lab|
+| Network Scanning and Mapping with Nmap |<a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main"> Network Scanning Lab|
 | Password Cracking with John the Ripper |<a href="https://google.co.za"> Password Cracking & Brute Force Techniques Lab|
 | Implementing (IAM) policies in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
 | Building a Virtual Private Cloud (VPC) |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
@@ -76,7 +76,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
 - <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
-- Network Scanning and Mapping with Nmap
+- <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
 - Password Cracking with John the Ripper
 - Implementing (IAM) policies in Azure
 - Building a Virtual Private Cloud (VPC)
