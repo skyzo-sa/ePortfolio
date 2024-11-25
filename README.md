@@ -1,21 +1,31 @@
 # Hello, I'm Thokozane
 <a href="https://www.linkedin.com/in/tempanza/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-I am a Success-driven IT professional with an approach always geared towards delivering exceptional results and driving technological advancements, a certified Systems Engineer with a robust track record in IT operations with expertise that spans across customer service, technical support, and network administration, underpinned by a fervent passion for problem-solving with a profound interest in technology and a dedication to solving complex problems.
+Success-driven IT professional with an approach always geared towards delivering exceptional results and driving technological advancements, with a robust track record in IT operations and expertise that spans across customer service, networking, cloud services, and cybersecurity, underpinned by a fervent passion for problem-solving and a profound interest in technology inspired by a dedication to solving complex problems.
 
 ## Objective
 
-My journey in Information Systems has led me to develop a passion for cloud, cybersecurity and networking, and I am now eager to transition into these fields, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Systems has led me to develop a passion for cloud computing, cybersecurity and networking, and I am now eager to transition into these fields.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Python Scripting and Network Automation for Threat Mitigation |<a href="https://www.linkedin.com/posts/tempanza_from-linux-server-installing-library-in-python-activity-7239215271134003201-OBWI?utm_source=share&utm_medium=member_desktop"> Network Automation Lab|
-| Network Traffic Monitoring and Attack Detection | <a href="https://www.linkedin.com/posts/tempanza_for-troubleshooting-purposes-you-might-want-activity-7149682497675591681-MOIM?utm_source=share&utm_medium=member_desktop"> Traffic Analysis Lab</a>|
-| Cisco Router OSPF Configuration      |<a href="https://www.linkedin.com/posts/tempanza_ccna-networking-network-activity-7232684354664075264-Ih1U?utm_source=share&utm_medium=member_desktop"> Dynamic vs Static Routing Lab|
-| Creating an Active Directory, Group Policy, DHCP, DNS                  |<a href="https://www.linkedin.com/pulse/create-active-directory-group-policy-dhcp-dns-home-lab-mpanza/">Active Directory & Server Administration Lab|
+| Setting up Windows AD & Azure AD environment |<a href="https://google.co.za"> System Administration Lab|
+| Building and configuring a Firewall in Linux  |<a href="https://google.co.za"> Security and Compliance Lab|
+| Setting up and securing a web server |<a href="https://google.co.za"> Security and Compliance Lab|
+| Network Scanning and Mapping with Nmap |<a href="https://google.co.za"> Network Scanning Lab|
+| Password Cracking with John the Ripper |<a href="https://google.co.za"> Password Cracking & Brute Force Techniques Lab|
+| Implementing (IAM) policies in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
+| Building a Virtual Private Cloud (VPC) |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
+| Configuring Cloud Security Monitoring and Logging |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
+| Deploying a Web Application Firewall in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
+| Implementing Data Encryption in Azure |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
+| Implementing Azure Sentinel (SIEM) |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
+| Implementing File Integrity Monitor (FIM) |<a href="https://google.co.za"> Security and Compliance Lab|
+| Configuring VLANs and Subnets |<a href="https://google.co.za"> Networking and Security Lab|
+| Python Network Automation |<a href="https://google.co.za"> Automation and Configuration Management Lab|
+
 
 ## Tools
 
