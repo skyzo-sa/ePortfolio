@@ -16,6 +16,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Setting up and securing a Web Server |<a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main"> Security and Compliance Lab|
 | Network Scanning and Mapping with Nmap |<a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main"> Network Scanning Lab|
 | Password Cracking with John the Ripper |<a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main"> Password Cracking & Brute Force Techniques Lab|
+| VLAN and Inter-VLAN Routing Configuration |<a href="https://google.co.za"> Networking and Security Lab|
 | Implementing (IAM) policies in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
 | Building a Virtual Private Cloud (VPC) |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
 | Configuring Cloud Security Monitoring and Logging |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
@@ -23,7 +24,6 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Implementing Data Encryption in Azure |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
 | Implementing Azure Sentinel (SIEM) |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
 | Implementing File Integrity Monitor (FIM) |<a href="https://google.co.za"> Security and Compliance Lab|
-| Configuring VLANs and Subnets |<a href="https://google.co.za"> Networking and Security Lab|
 | Python Network Automation |<a href="https://google.co.za"> Automation and Configuration Management Lab|
 
 
@@ -79,6 +79,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
 - <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
 - <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
+- VLAN and Inter-VLAN Routing Configuration
 - Implementing (IAM) policies in Azure
 - Building a Virtual Private Cloud (VPC)
 - Configuring Cloud Security Monitoring and Logging
@@ -86,7 +87,6 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - Implementing Data Encryption in Azure
 - Implementing Azure Sentinel (SIEM)
 - Implementing File Integrity Monitor (FIM)
-- Configuring VLANs and Subnets
 - Python Network Automation
 
 
