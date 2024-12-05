@@ -19,8 +19,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration – Lab|
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
-| Implementing (IAM) policies in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
-| Building a Virtual Private Cloud (VPC) |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
+| Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
 | Configuring Cloud Security Monitoring and Logging |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
 | Deploying a Web Application Firewall in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
 | Implementing Data Encryption in Azure |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
@@ -84,8 +83,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
-- Implementing (IAM) policies in Azure
-- Building a Virtual Private Cloud (VPC)
+- <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
 - Configuring Cloud Security Monitoring and Logging
 - Deploying a Web Application Firewall in Azure
 - Implementing Data Encryption in Azure
