@@ -20,7 +20,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration – Lab|
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
 | Administer Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Lab 01: Managing Microsoft Entra ID Identities|
-| Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02a: Managing Subscriptions and RBAC|
+| Administer Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Lab 02a: Managing Subscriptions and RBAC|
 | Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02b: Managing Governance via Azure Policy|
 | Administer Azure Resources |<a href="https://google.co.za"> Lab 03: Managing Azure resources by using ARM Templates|
 | Implement Virtual Networking |<a href="https://google.co.za"> Lab 04: Implementing Virtual Networking|
@@ -94,7 +94,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
 ### Microsoft Azure Administrator Labs
 - <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Manage Microsoft Entra ID Identities
-- Manage Subscriptions and RBAC
+- <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Manage Subscriptions and RBAC
 - Manage Governance via Azure Policy
 - Manage Azure resources by using ARM Templates
 - Implement Virtual Networking
