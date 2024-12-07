@@ -19,13 +19,22 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration – Lab|
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
+| Administer Identity |<a href="https://google.co.za"> Lab 01: Managing Microsoft Entra ID Identities|
+| Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02a: Managing Subscriptions and RBAC|
+| Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02b: Manage Governance via Azure Policy|
+| Administer Azure Resources |<a href="https://google.co.za"> Lab 03: Manage Azure resources by using ARM Templates|
+| Implement Virtual Networking |<a href="https://google.co.za"> Lab 04: Implement Virtual Networking|
+| Administer Intersite Connectivity |<a href="https://google.co.za"> Lab 05: Implement Intersite Connectivity|
+| Administer Network Traffic Management |<a href="https://google.co.za"> Lab 06: Implement Traffic Management|
+| Administer Azure Storage |<a href="https://google.co.za"> Lab 07: Manage Azure storage|
+| Administer Virtual Machines |<a href="https://google.co.za"> Lab 08: Manage Virtual Machines|
+| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09a: Implement Web Apps|
+| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09b: Implement Azure Container Instances|
+| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09c: Implement Azure Container Apps|
+| Administer Data Protection |<a href="https://google.co.za"> Lab 10: Implement Data Protection|
+| Administer Monitoring |<a href="https://google.co.za"> Lab 11: Implement Monitoring|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
-| Configuring Cloud Security Monitoring and Logging |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
-| Deploying a Web Application Firewall in Azure |<a href="https://google.co.za"> Cloud Administration (Azure) Lab|
-| Implementing Data Encryption in Azure |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
-| Implementing Azure Sentinel (SIEM) |<a href="https://google.co.za"> Cloud Security Administration (Azure) Lab|
-| Implementing File Integrity Monitor (FIM) |<a href="https://google.co.za"> Security and Compliance Lab|
-| Python Network Automation |<a href="https://google.co.za"> Automation and Configuration Management Lab|
+
 
 
 ## Tools
@@ -83,13 +92,23 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
+### Microsoft Azure Administrator Labs
+- Manage Microsoft Entra ID Identities
+- Manage Subscriptions and RBAC
+- Manage Governance via Azure Policy
+- Manage Azure resources by using ARM Templates
+- Implement Virtual Networking
+- Implement Intersite Connectivity
+- Implement Traffic Management
+- Manage Azure storage
+- Manage Virtual Machines
+- Implement Web Apps
+- Implement Azure Container Instances
+- Implement Azure Container Apps
+- Implement Data Protection
+- Implement Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
-- Configuring Cloud Security Monitoring and Logging
-- Deploying a Web Application Firewall in Azure
-- Implementing Data Encryption in Azure
-- Implementing Azure Sentinel (SIEM)
-- Implementing File Integrity Monitor (FIM)
-- Python Network Automation
+
 
 
 <h2> 🤳 Connect with me:</h2>
