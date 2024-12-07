@@ -22,7 +22,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administer Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Lab 01: Managing Microsoft Entra ID Identities|
 | Administer Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Lab 02a: Managing Subscriptions and RBAC|
 | Administer Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Lab 02b: Managing Governance via Azure Policy|
-| Administer Azure Resources |<a href="https://google.co.za"> Lab 03: Managing Azure resources by using ARM Templates|
+| Administer Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Lab 03: Managing Azure resources by using ARM Templates|
 | Implement Virtual Networking |<a href="https://google.co.za"> Lab 04: Implementing Virtual Networking|
 | Administer Intersite Connectivity |<a href="https://google.co.za"> Lab 05: Implementing Intersite Connectivity|
 | Administer Network Traffic Management |<a href="https://google.co.za"> Lab 06: Implementing Traffic Management|
@@ -96,7 +96,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Manage Microsoft Entra ID Identities
 - <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Manage Subscriptions and RBAC
 - <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Manage Governance via Azure Policy
-- Manage Azure resources by using ARM Templates
+- <a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main">Manage Azure resources by using ARM Templates
 - Implement Virtual Networking
 - Implement Intersite Connectivity
 - Implement Traffic Management
