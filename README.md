@@ -21,18 +21,18 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
 | Administer Identity |<a href="https://google.co.za"> Lab 01: Managing Microsoft Entra ID Identities|
 | Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02a: Managing Subscriptions and RBAC|
-| Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02b: Manage Governance via Azure Policy|
-| Administer Azure Resources |<a href="https://google.co.za"> Lab 03: Manage Azure resources by using ARM Templates|
-| Implement Virtual Networking |<a href="https://google.co.za"> Lab 04: Implement Virtual Networking|
-| Administer Intersite Connectivity |<a href="https://google.co.za"> Lab 05: Implement Intersite Connectivity|
-| Administer Network Traffic Management |<a href="https://google.co.za"> Lab 06: Implement Traffic Management|
-| Administer Azure Storage |<a href="https://google.co.za"> Lab 07: Manage Azure storage|
-| Administer Virtual Machines |<a href="https://google.co.za"> Lab 08: Manage Virtual Machines|
-| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09a: Implement Web Apps|
-| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09b: Implement Azure Container Instances|
-| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09c: Implement Azure Container Apps|
-| Administer Data Protection |<a href="https://google.co.za"> Lab 10: Implement Data Protection|
-| Administer Monitoring |<a href="https://google.co.za"> Lab 11: Implement Monitoring|
+| Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02b: Managing Governance via Azure Policy|
+| Administer Azure Resources |<a href="https://google.co.za"> Lab 03: Managing Azure resources by using ARM Templates|
+| Implement Virtual Networking |<a href="https://google.co.za"> Lab 04: Implementing Virtual Networking|
+| Administer Intersite Connectivity |<a href="https://google.co.za"> Lab 05: Implementing Intersite Connectivity|
+| Administer Network Traffic Management |<a href="https://google.co.za"> Lab 06: Implementing Traffic Management|
+| Administer Azure Storage |<a href="https://google.co.za"> Lab 07: Managing Azure storage|
+| Administer Virtual Machines |<a href="https://google.co.za"> Lab 08: Managing Virtual Machines|
+| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09a: Implementing Web Apps|
+| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09b: Implementing Azure Container Instances|
+| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09c: Implementing Azure Container Apps|
+| Administer Data Protection |<a href="https://google.co.za"> Lab 10: Implementing Data Protection|
+| Administer Monitoring |<a href="https://google.co.za"> Lab 11: Implementing Monitoring|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
 
 
