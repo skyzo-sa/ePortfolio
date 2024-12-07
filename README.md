@@ -19,7 +19,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration – Lab|
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
-| Administer Identity |<a href="https://google.co.za"> Lab 01: Managing Microsoft Entra ID Identities|
+| Administer Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Lab 01: Managing Microsoft Entra ID Identities|
 | Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02a: Managing Subscriptions and RBAC|
 | Administer Governance and Compliance |<a href="https://google.co.za"> Lab 02b: Managing Governance via Azure Policy|
 | Administer Azure Resources |<a href="https://google.co.za"> Lab 03: Managing Azure resources by using ARM Templates|
@@ -93,7 +93,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
 ### Microsoft Azure Administrator Labs
-- Manage Microsoft Entra ID Identities
+- <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Manage Microsoft Entra ID Identities
 - Manage Subscriptions and RBAC
 - Manage Governance via Azure Policy
 - Manage Azure resources by using ARM Templates
