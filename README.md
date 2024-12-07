@@ -24,7 +24,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administer Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Lab 02b: Managing Governance via Azure Policy|
 | Administer Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Lab 03: Managing Azure resources by using ARM Templates|
 | Implement Virtual Networking |<a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main"> Lab 04: Implementing Virtual Networking|
-| Administer Intersite Connectivity |<a href="https://google.co.za"> Lab 05: Implementing Intersite Connectivity|
+| Administer Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Lab 05: Implementing Intersite Connectivity|
 | Administer Network Traffic Management |<a href="https://google.co.za"> Lab 06: Implementing Traffic Management|
 | Administer Azure Storage |<a href="https://google.co.za"> Lab 07: Managing Azure storage|
 | Administer Virtual Machines |<a href="https://google.co.za"> Lab 08: Managing Virtual Machines|
@@ -98,7 +98,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Manage Governance via Azure Policy
 - <a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main">Manage Azure resources by using ARM Templates
 - <a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main">Implement Virtual Networking
-- Implement Intersite Connectivity
+- <a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main">Implement Intersite Connectivity
 - Implement Traffic Management
 - Manage Azure storage
 - Manage Virtual Machines
