@@ -27,7 +27,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administer Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Lab 05: Implementing Intersite Connectivity|
 | Administer Network Traffic Management |<a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main"> Lab 06: Implementing Traffic Management|
 | Administer Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Lab 07: Managing Azure storage|
-| Administer Virtual Machines |<a href="https://google.co.za"> Lab 08: Managing Virtual Machines|
+| Administer Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Lab 08: Managing Virtual Machines|
 | Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09a: Implementing Web Apps|
 | Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09b: Implementing Azure Container Instances|
 | Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09c: Implementing Azure Container Apps|
@@ -101,7 +101,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main">Implement Intersite Connectivity
 - <a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main">Implement Traffic Management
 - <a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main">Manage Azure storage
-- Manage Virtual Machines
+- <a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main">Manage Virtual Machines
 - Implement Web Apps
 - Implement Azure Container Instances
 - Implement Azure Container Apps
