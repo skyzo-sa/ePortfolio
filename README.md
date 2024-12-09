@@ -29,7 +29,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administer Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Lab 07: Managing Azure storage|
 | Administer Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Lab 08: Managing Virtual Machines|
 | Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main"> Lab 09a: Implementing Web Apps|
-| Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09b: Implementing Azure Container Instances|
+| Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Lab 09b: Implementing Azure Container Instances|
 | Administer PaaS Compute Options |<a href="https://google.co.za"> Lab 09c: Implementing Azure Container Apps|
 | Administer Data Protection |<a href="https://google.co.za"> Lab 10: Implementing Data Protection|
 | Administer Monitoring |<a href="https://google.co.za"> Lab 11: Implementing Monitoring|
@@ -103,7 +103,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main">Manage Azure storage
 - <a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main">Manage Virtual Machines
 - <a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main">Implement Web Apps
-- Implement Azure Container Instances
+- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main">Implement Azure Container Instances
 - Implement Azure Container Apps
 - Implement Data Protection
 - Implement Monitoring
