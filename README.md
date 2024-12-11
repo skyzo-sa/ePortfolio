@@ -32,7 +32,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Lab 09b: Implementing Azure Container Instances|
 | Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main"> Lab 09c: Implementing Azure Container Apps|
 | Administer Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Lab 10: Implementing Data Protection|
-| Administer Monitoring |<a href="https://google.co.za"> Lab 11: Implementing Monitoring|
+| Administer Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Lab 11: Implementing Monitoring|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
 
 
@@ -106,7 +106,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main">Implement Azure Container Instances
 - <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main">Implement Azure Container Apps
 - <a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main">Implement Data Protection
-- Implement Monitoring
+- <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implement Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
 
 
