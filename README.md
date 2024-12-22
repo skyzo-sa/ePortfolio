@@ -1,7 +1,7 @@
 # Hello, I'm Thokozane
 <a href="https://www.linkedin.com/in/tempanza/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-IT Certified Professional with a robust track record working in complex IT environments - supporting 100 to over 2000 end-users providing IT Support specializing in (Customer Service, Computer Networking, Azure Cloud, Cybersecurity & Python Network Automation) with a proven ability to optimize systems, network & cloud infrastructure enhancing performance, productivity and revenues for organizations through his innovative skills underpinned by a fervent passion for problem-solving and a profound interest in technology.
+Certified IT Specialist with a robust track record working in complex IT environments - supporting 100 to over 2000 end-users providing IT Support specializing in (Customer Service, Computer Networking, Azure Cloud, Cybersecurity & Python Network Automation) with a proven ability to optimize systems, network & cloud infrastructure enhancing performance, productivity and revenues for organizations through innovative skills underpinned by a fervent passion for problem-solving and a profound interest in technology.
 
 ## Objective
 
