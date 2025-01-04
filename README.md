@@ -34,6 +34,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administer Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Lab 10: Implementing Data Protection|
 | Administer Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Lab 11: Implementing Monitoring|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
+| Building a Web Base Network Automation |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Python Network Automation Lab|
 
 
 
@@ -108,6 +109,8 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main">Implement Data Protection
 - <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implement Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
+- ### Python Network Automation Labs
+- - <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Web Base Network Automation Lab
 
 
 
