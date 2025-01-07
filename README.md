@@ -69,7 +69,6 @@ My journey in Information Systems has led me to develop a passion for cloud comp
     <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-GNS3-0078D4?&style=for-the-badge&logo=GNS3&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-
 </div>
 
 ### Endpoint
@@ -80,8 +79,6 @@ My journey in Information Systems has led me to develop a passion for cloud comp
     <img src="https://img.shields.io/badge/-Windows_Server-800080?&style=for-the-badge&logo=Windows_Server&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C8C?&style=for-the-badge&logo=Kali_Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu_Linux-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
-
-
 </div>
 
 ### Cloud
@@ -98,7 +95,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ## Windows Server AD Projects
 - <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 
-### Microsoft Azure Administrator Projects
+## Microsoft Azure Administrator Projects
 - <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Managing Microsoft Entra ID Identities
 - <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Managing Subscriptions and RBAC
 - <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Managing Governance via Azure Policy
@@ -115,10 +112,10 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implementing Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
 
-- ### Python Network Automation Labs
+## Python Network Automation Labs
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
 
-- ### Cisco Network Engineering Labs
+## Cisco Network Engineering Labs
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
 - <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
