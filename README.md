@@ -20,20 +20,20 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration – Lab|
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
-| Administer Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Lab 01: Managing Microsoft Entra ID Identities|
-| Administer Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Lab 02a: Managing Subscriptions and RBAC|
-| Administer Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Lab 02b: Managing Governance via Azure Policy|
-| Administer Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Lab 03: Managing Azure resources by using ARM Templates|
-| Implement Virtual Networking |<a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main"> Lab 04: Implementing Virtual Networking|
-| Administer Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Lab 05: Implementing Intersite Connectivity|
-| Administer Network Traffic Management |<a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main"> Lab 06: Implementing Traffic Management|
-| Administer Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Lab 07: Managing Azure storage|
-| Administer Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Lab 08: Managing Virtual Machines|
-| Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main"> Lab 09a: Implementing Web Apps|
-| Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Lab 09b: Implementing Azure Container Instances|
-| Administer PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main"> Lab 09c: Implementing Azure Container Apps|
-| Administer Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Lab 10: Implementing Data Protection|
-| Administer Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Lab 11: Implementing Monitoring|
+| Administering Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Lab 01: Managing Microsoft Entra ID Identities|
+| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Lab 02a: Managing Subscriptions and RBAC|
+| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Lab 02b: Managing Governance via Azure Policy|
+| Administering Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Lab 03: Managing Azure resources by using ARM Templates|
+| Implementing Virtual Networking |<a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main"> Lab 04: Implementing Virtual Networking|
+| Administering Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Lab 05: Implementing Intersite Connectivity|
+| Administering Network Traffic Management |<a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main"> Lab 06: Implementing Traffic Management|
+| Administering Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Lab 07: Managing Azure storage|
+| Administering Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Lab 08: Managing Virtual Machines|
+| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main"> Lab 09a: Implementing Web Apps|
+| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Lab 09b: Implementing Azure Container Instances|
+| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main"> Lab 09c: Implementing Azure Container Apps|
+| Administering Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Lab 10: Implementing Data Protection|
+| Administering Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Lab 11: Implementing Monitoring|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
 | Building a Web Base Network Automation |<a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main"> Python Network Automation Lab|
 
@@ -89,20 +89,20 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 
 ### Microsoft Azure Administrator Projects
-- <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Manage Microsoft Entra ID Identities
-- <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Manage Subscriptions and RBAC
-- <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Manage Governance via Azure Policy
-- <a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main">Manage Azure resources by using ARM Templates
-- <a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main">Implement Virtual Networking
-- <a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main">Implement Intersite Connectivity
-- <a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main">Implement Traffic Management
-- <a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main">Manage Azure storage
-- <a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main">Manage Virtual Machines
-- <a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main">Implement Web Apps
-- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main">Implement Azure Container Instances
-- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main">Implement Azure Container Apps
-- <a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main">Implement Data Protection
-- <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implement Monitoring
+- <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Managing Microsoft Entra ID Identities
+- <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Managing Subscriptions and RBAC
+- <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Managing Governance via Azure Policy
+- <a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main">Managing Azure resources by using ARM Templates
+- <a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main">Implementing Virtual Networking
+- <a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main">Implementing Intersite Connectivity
+- <a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main">Implementing Traffic Management
+- <a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main">Managing Azure storage
+- <a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main">Managing Virtual Machines
+- <a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main">Implementing Web Apps
+- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main">Implementing Azure Container Instances
+- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main">Implementing Azure Container Apps
+- <a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main">Implementing Data Protection
+- <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implementing Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
 
 - ### Python Network Automation Labs
