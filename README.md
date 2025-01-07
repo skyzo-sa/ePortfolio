@@ -81,7 +81,10 @@ My journey in Information Systems has led me to develop a passion for cloud comp
     <img src="https://img.shields.io/badge/-Yeastar-FFD700?&style=for-the-badge&logo=Yeastar&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network%2B-800080?&style=for-the-badge&logo=CompTIA&logoColor=red" />
+
+<a href="https://www.credly.com/badges/ab3e680d-0034-471c-b668-e022e79685dc/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 
 </div>
 
