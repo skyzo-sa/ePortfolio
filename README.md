@@ -1,4 +1,4 @@
-# Hello, My name is Thokozane
+# Hello, I'm Thokozane
 <a href="https://www.linkedin.com/in/tempanza/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Certified IT Specialist with extensive experience in network engineering, system administration, and troubleshooting. I have a strong background in configuring and managing multi-vendor switches, routers, and firewalls. My expertise extends to Linux and Azure cloud administration, where I have successfully optimized systems to enhance performance, network security, and productivity.
