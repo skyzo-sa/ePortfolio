@@ -57,7 +57,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Administering Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Lab 11: Implementing Monitoring|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
 | Building a Web Base Network Automation |<a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main"> Python Network Automation Lab|
-| FortiGate Firewall - Administration LAB |<a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main"> FortiGate Firewall - Administration LAB|
+| FortiGate Firewall - Administration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main"> FortiGate Firewall - Administration LAB|
 
 
 
@@ -130,7 +130,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ### Sophos XG Firewall Projects
 
 ### Foritgate Firewall Projects
-- <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">FortiGate Firewall - Administration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">FortiGate Firewall - Administration LAB</a>
 
 ### Linux System Admin Projects
 
