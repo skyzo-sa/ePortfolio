@@ -59,6 +59,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | Building a Web Base Network Automation |<a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main"> Python Network Automation Lab|
 | FortiGate FW - Administration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main"> FortiGate FW - Administration LAB|
 | FortiGate FW - Interfaces Configuration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main"> FortiGate FW - Interfaces Configuration LAB|
+| FortiGate FW - NAT & Transparent Mode LAB |<a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main"> FortiGate FW - NAT & Transparent Mode LAB|
 
 
 
@@ -133,6 +134,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 ### Foritgate Firewall Projects
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">FortiGate Firewall - Administration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">FortiGate Firewall - Interfaces Configuration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">FortiGate FW - NAT & Transparent Mode LAB</a>
 
 ### Linux System Admin Projects
 
