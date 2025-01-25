@@ -60,7 +60,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | FortiGate FW - Administration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main"> FortiGate FW - Administration LAB|
 | FortiGate FW - Interfaces Configuration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main"> FortiGate FW - Interfaces Configuration LAB|
 | FortiGate FW - NAT & Transparent Mode LAB |<a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main"> FortiGate FW - NAT & Transparent Mode LAB|
-| FortiGate FW - Routing LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> FortiGate FW - Routing LAB|
+| FortiGate FW - Routing & Security Profiles LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> FortiGate FW - Routing & Security Profiles LAB|
 
 
 
@@ -136,7 +136,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">FortiGate Firewall - Administration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">FortiGate Firewall - Interfaces Configuration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">FortiGate FW - NAT & Transparent Mode LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">FortiGate FW - Routing LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">FortiGate FW - Routing & Security Profiles LAB</a>
 
 ### Linux System Admin Projects
 
