@@ -63,6 +63,8 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | FortiGate FW - Routing & Security Profiles LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> FortiGate FW - Routing & Security Profiles LAB|
 | FortiGate FW - Authentication LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main"> FortiGate FW - Authentication LAB|
 | FortiGate FW - High Availability (Active-Active) LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main"> FortiGate FW - High Availability (Active-Active) LAB|
+| FortiGate FW - Software Defined SD-WAN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main"> FortiGate FW - Software Defined SD-WAN Lab|
+
 
 
 
@@ -143,6 +145,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">FortiGate FW - Routing & Security Profiles LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">FortiGate FW - Authentication LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">FortiGate FW - High Availability (Active-Active) LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">FortiGate FW - Software Defined SD-WAN LAB</a>
 
 ### Linux System Admin Projects
 
