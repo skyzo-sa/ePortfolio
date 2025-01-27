@@ -62,7 +62,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | FortiGate FW - NAT & Transparent Mode LAB |<a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main"> FortiGate FW - NAT & Transparent Mode LAB|
 | FortiGate FW - Routing & Security Profiles LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> FortiGate FW - Routing & Security Profiles LAB|
 | FortiGate FW - Authentication LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main"> FortiGate FW - Authentication LAB|
-| FortiGate FW - High Availability (Active-Active) LAB |<a href=""> FortiGate FW - High Availability (Active-Active) LAB|
+| FortiGate FW - High Availability (Active-Active) LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main"> FortiGate FW - High Availability (Active-Active) LAB|
 
 
 
@@ -142,7 +142,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">FortiGate FW - NAT & Transparent Mode LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">FortiGate FW - Routing & Security Profiles LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">FortiGate FW - Authentication LAB</a>
-- <a href="">FortiGate FW - High Availability (Active-Active) LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">FortiGate FW - High Availability (Active-Active) LAB</a>
 
 ### Linux System Admin Projects
 
