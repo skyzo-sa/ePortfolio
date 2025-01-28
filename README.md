@@ -64,7 +64,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | FortiGate FW - Authentication LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main"> FortiGate FW - Authentication LAB|
 | FortiGate FW - High Availability (Active-Active) LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main"> FortiGate FW - High Availability (Active-Active) LAB|
 | FortiGate FW - Software Defined SD-WAN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main"> FortiGate FW - Software Defined SD-WAN Lab|
-| FortiGate FW - VPN Lab |<a href=""> FortiGate FW - VPN Lab|
+| FortiGate FW - VPN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main"> FortiGate FW - VPN Lab|
 
 
 
@@ -147,7 +147,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">FortiGate FW - Authentication LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">FortiGate FW - High Availability (Active-Active) LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">FortiGate FW - Software Defined SD-WAN LAB</a>
-- <a href="">FortiGate FW - VPN LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">FortiGate FW - VPN LAB</a>
 
 ### Linux System Admin Projects
 
