@@ -164,6 +164,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 [<img align="left" alt="Skyzo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Skyzo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Skyzo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7302266038295957505" height="535" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 [twitter]: https://x.com/skyzo_sa
 [instagram]: https://www.instagram.com/skyzo_sa/
