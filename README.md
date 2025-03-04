@@ -66,7 +66,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | FortiGate FW - Software Defined SD-WAN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main"> FortiGate FW - Software Defined SD-WAN Lab|
 | FortiGate FW - VPN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main"> FortiGate FW - VPN Lab|
 | FortiGate FW - Assignment 1: Project 1 LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main"> FortiGate FW - Assignment 1: Project 1 LAB|
-| XG Firewall - Static Routing LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main"> XG Firewall - Static Routing LAB|
+| Sophos XG Firewall - Static Routing LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main"> Sophos XG Firewall - Static Routing LAB|
 
 
 
@@ -139,7 +139,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 - <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
 
 ### Sophos XG Firewall Projects
-- <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">XG Firewall - Static Routing LAB</a>
+- <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Sophos XG Firewall - Static Routing LAB</a>
 
 
 ### Foritgate Firewall Projects
