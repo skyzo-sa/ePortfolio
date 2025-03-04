@@ -67,6 +67,7 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 | FortiGate FW - VPN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main"> FortiGate FW - VPN Lab|
 | FortiGate FW - Assignment 1: Project 1 LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main"> FortiGate FW - Assignment 1: Project 1 LAB|
 | Sophos XG Firewall - Static Routing LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main"> Sophos XG Firewall - Static Routing LAB|
+| Sophos XG Firewall - Firewall Rules LAB |<a href=""> Sophos XG Firewall - Firewall Rules LAB|
 
 
 
@@ -140,6 +141,8 @@ My journey in Information Systems has led me to develop a passion for cloud comp
 
 ### Sophos XG Firewall Projects
 - <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Sophos XG Firewall - Static Routing LAB</a>
+- <a href="">Sophos XG Firewall - Firewall Rules LAB</a>
+
 
 
 ### Foritgate Firewall Projects
