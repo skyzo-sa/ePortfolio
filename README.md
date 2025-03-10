@@ -156,8 +156,8 @@
 
 ## 🤳 Connect with Me
 
-- [💼 LinkedIN](https://linkedin.com/in/tempanza)
-- [🐦 Twitter](https://x.com/skyzo_sa)
 - <a href="https://www.linkedin.com/in/tempanza/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- [🐦 Twitter](https://x.com/skyzo_sa)
+
 
 
