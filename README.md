@@ -64,6 +64,7 @@
 | Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB |<a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main"> VLANs in Sophos XGS Firewall LAB|
 | Deploying Sophos firewall in Azure LAB |<a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main"> Deploying Sophos firewall in Azure LAB|
 | RDP Access to Azure Windows VM LAB |<a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main"> RDP Access to Azure Windows VM LAB|
+| Sophos IPsec site-to site-in Azure LAB |<a href=""> Sophos IPsec site-to site-in Azure LAB|
 
 
 
@@ -146,6 +147,8 @@
 - <a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main">Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB</a>
 - <a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main">Deploying Sophos firewall in Azure LAB</a>
 - <a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main">RDP Access to Azure Windows VM LAB</a>
+- <a href="">Sophos IPsec site-to site-in Azure LAB</a>
+
 
 
 
