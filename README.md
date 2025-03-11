@@ -62,7 +62,7 @@
 | Sophos XG Firewall - Firewall Rules LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main"> Sophos XG Firewall - Firewall Rules LAB|
 | Sophos XG Firewall - IPsec LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main"> Sophos XG Firewall - IPsec LAB|
 | Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB |<a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main"> VLANs in Sophos XGS Firewall LAB|
-| Deploying Sophos firewall in Azure LAB |<a href=""> Deploying Sophos firewall in Azure LAB|
+| Deploying Sophos firewall in Azure LAB |<a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main"> Deploying Sophos firewall in Azure LAB|
 
 
 
@@ -144,7 +144,7 @@
 - <a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main">Sophos XG Firewall - Firewall Rules LAB</a>
 - <a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main">Sophos XG Firewall - IPsec LAB</a>
 - <a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main">Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB</a>
-- <a href="">Deploying Sophos firewall in Azure LAB</a>
+- <a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main">Deploying Sophos firewall in Azure LAB</a>
 
 
 
