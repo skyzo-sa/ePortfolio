@@ -127,6 +127,8 @@
 ## Linux SysAdmin Projects
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
 - <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
+- <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
+- <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
 
 ## Python Network Automation Labs
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
@@ -158,13 +160,8 @@
 - <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN Configuration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">Assignment 1: Project 1 LAB</a>
 
-## Cybersecurity Projects
 
-- <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
-- <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
-
-
-### 🤳 Connect with Me
+## 🤳 Connect with Me
 
 - <a href="https://www.linkedin.com/in/tempanza/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 - [🐦 Twitter](https://x.com/skyzo_sa)
