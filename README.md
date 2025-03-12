@@ -103,10 +103,8 @@
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-## Windows Server AD Projects
-- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 
-## Microsoft Azure Administrator Projects
+## Microsoft Azure Projects
 - <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Managing Microsoft Entra ID Identities
 - <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Managing Subscriptions and RBAC
 - <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Managing Governance via Azure Policy
@@ -123,19 +121,20 @@
 - <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implementing Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
 
+## Windows Server AD Environment Projects
+- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
+
+### Linux SysAdmin Projects
+- <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
+- <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
+
 ## Python Network Automation Labs
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
 
-## Cisco Network Engineering Labs
+## Cisco CCNA Network Engineering Labs
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
 - <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
-
-## Cybersecurity Projects
-- <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
-- <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
-- <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
-- <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
 
 ### Sophos XG Firewall Projects
 - <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Static Routing LAB</a>
@@ -148,10 +147,6 @@
 - <a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-SD-RED-Configuration-LAB/tree/main">Sophos XGS Firewall SD-RED Configuration LAB</a>
 - <a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main">Sophos XGS Firewall Site-to-Site RED tunnel LAB</a>
 
-
-
-
-
 ### Foritgate Firewall Projects
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">Administration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">Interfaces Configuration LAB</a>
@@ -163,9 +158,10 @@
 - <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN Configuration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">Assignment 1: Project 1 LAB</a>
 
-### Linux System Admin Projects
+## Cybersecurity Projects
 
-
+- <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
+- <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
 
 
 ## 🤳 Connect with Me
