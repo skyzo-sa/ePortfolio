@@ -160,7 +160,7 @@
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">Authentication LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">High Availability (Active-Active) LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">Software Defined SD-WAN LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN Configuration LAB</a>
 - <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">Assignment 1: Project 1 LAB</a>
 
 ### Linux System Admin Projects
