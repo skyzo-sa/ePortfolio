@@ -31,46 +31,42 @@
 | Network Scanning and Mapping with Nmap |<a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main"> Network Scanning Lab|
 | Password Cracking with John the Ripper |<a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main"> Password Cracking & Brute Force Techniques Lab|
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
-| DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration – Lab|
-| Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration – Lab|
-| Administering Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Lab 01: Managing Microsoft Entra ID Identities|
-| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Lab 02a: Managing Subscriptions and RBAC|
-| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Lab 02b: Managing Governance via Azure Policy|
-| Administering Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Lab 03: Managing Azure resources by using ARM Templates|
-| Implementing Virtual Networking |<a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main"> Lab 04: Implementing Virtual Networking|
-| Administering Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Lab 05: Implementing Intersite Connectivity|
-| Administering Network Traffic Management |<a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main"> Lab 06: Implementing Traffic Management|
-| Administering Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Lab 07: Managing Azure storage|
-| Administering Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Lab 08: Managing Virtual Machines|
-| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main"> Lab 09a: Implementing Web Apps|
-| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Lab 09b: Implementing Azure Container Instances|
-| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main"> Lab 09c: Implementing Azure Container Apps|
-| Administering Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Lab 10: Implementing Data Protection|
-| Administering Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Lab 11: Implementing Monitoring|
+| DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration Lab|
+| Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration Lab|
+| Administering Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Managing Microsoft Entra ID Identities Lab|
+| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Managing Subscriptions and RBAC Lab|
+| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Managing Governance via Azure Policy Lab|
+| Administering Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Managing Azure resources Lab|
+| Implementing Virtual Networking |<a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main"> Implementing Virtual Networking Lab|
+| Administering Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Implementing Intersite Connectivity Lab|
+| Administering Network Traffic Management |<a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main"> Implementing Traffic Management Lab|
+| Administering Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Managing Azure storage Lab|
+| Administering Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Managing Virtual Machines Lab|
+| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main"> Implementing Web Apps Lab|
+| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Implementing Azure Container Instances Lab|
+| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main"> Implementing Azure Container Apps Lab|
+| Administering Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Implementing Data Protection Lab|
+| Administering Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Implementing Monitoring Lab|
 | Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
 | Building a Web Base Network Automation |<a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main"> Python Network Automation Lab|
-| FortiGate FW - Administration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main"> FortiGate FW - Administration LAB|
-| FortiGate FW - Interfaces Configuration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main"> FortiGate FW - Interfaces Configuration LAB|
-| FortiGate FW - NAT & Transparent Mode LAB |<a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main"> FortiGate FW - NAT & Transparent Mode LAB|
-| FortiGate FW - Routing & Security Profiles LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> FortiGate FW - Routing & Security Profiles LAB|
-| FortiGate FW - Authentication LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main"> FortiGate FW - Authentication LAB|
-| FortiGate FW - High Availability (Active-Active) LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main"> FortiGate FW - High Availability (Active-Active) LAB|
-| FortiGate FW - Software Defined SD-WAN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main"> FortiGate FW - Software Defined SD-WAN Lab|
-| FortiGate FW - VPN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main"> FortiGate FW - VPN Lab|
-| FortiGate FW - Assignment 1: Project 1 LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main"> FortiGate FW - Assignment 1: Project 1 LAB|
-| Sophos XG Firewall - Static Routing LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main"> Sophos XG Firewall - Static Routing LAB|
+| FortiGate Firewall Administration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main"> Administration LAB|
+| FortiGate Firewall Interfaces Configuration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main"> Interfaces Configuration LAB|
+| FortiGate Firewall NAT & TP Mode LAB |<a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main"> NAT & Transparent Mode LAB|
+| FortiGate Firewall Routing & Security Profiles LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> Routing & Security Profiles LAB|
+| FortiGate Firewall Authentication LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main"> FortiGate FW - Authentication LAB|
+| FortiGate Firewall High Availability (A-A) LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main"> High Availability (A-A) LAB|
+| FortiGate Firewall SD-WAN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main"> Software Defined SD-WAN Lab|
+| FortiGate Firewall VPN configuration Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main"> VPN Configuration Lab|
+| FortiGate Firewall - Project 1 LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main"> Assignment 1: Project 1 LAB|
+| Sophos XG Firewall - Static Routing LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main"> Static Routing LAB|
 | Sophos XG Firewall - Firewall Rules LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main"> Sophos XG Firewall - Firewall Rules LAB|
-| Sophos XG Firewall - IPsec LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main"> Sophos XG Firewall - IPsec LAB|
+| Sophos XG Firewall - IPsec LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main"> IPsec LAB|
 | Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB |<a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main"> VLANs in Sophos XGS Firewall LAB|
 | Deploying Sophos firewall in Azure LAB |<a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main"> Deploying Sophos firewall in Azure LAB|
 | RDP Access to Azure Windows VM LAB |<a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main"> RDP Access to Azure Windows VM LAB|
 | Sophos IPsec site-to site-in Azure LAB |<a href="https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main"> Sophos IPsec site-to site-in Azure LAB|
 | Sophos XGS Firewall SD-RED Configuration LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-SD-RED-Configuration-LAB/tree/main"> Sophos XGS Firewall SD-RED Configuration LAB|
 | Sophos XGS Firewall Site-to-Site RED tunnel LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main"> Sophos Site-to-Site RED tunnel LAB|
-
-
-
-
 
 
 
@@ -142,10 +138,10 @@
 - <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
 
 ### Sophos XG Firewall Projects
-- <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Sophos XG Firewall - Static Routing LAB</a>
-- <a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main">Sophos XG Firewall - Firewall Rules LAB</a>
-- <a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main">Sophos XG Firewall - IPsec LAB</a>
-- <a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main">Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB</a>
+- <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Static Routing LAB</a>
+- <a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main">Firewall Rules LAB</a>
+- <a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main">IPsec LAB</a>
+- <a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main">Creating VLANs in Sophos XGS Firewall LAB</a>
 - <a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main">Deploying Sophos firewall in Azure LAB</a>
 - <a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main">RDP Access to Azure Windows VM LAB</a>
 - <a href="https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main">Sophos IPsec site-to site-in Azure LAB</a>
@@ -157,15 +153,15 @@
 
 
 ### Foritgate Firewall Projects
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">FortiGate Firewall - Administration LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">FortiGate Firewall - Interfaces Configuration LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">FortiGate FW - NAT & Transparent Mode LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">FortiGate FW - Routing & Security Profiles LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">FortiGate FW - Authentication LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">FortiGate FW - High Availability (Active-Active) LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">FortiGate FW - Software Defined SD-WAN LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">FortiGate FW - VPN LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">FortiGate FW - Assignment 1: Project 1 LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">Administration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">Interfaces Configuration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">NAT & Transparent Mode LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">Routing & Security Profiles LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">Authentication LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">High Availability (Active-Active) LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">Software Defined SD-WAN LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">Assignment 1: Project 1 LAB</a>
 
 ### Linux System Admin Projects
 
