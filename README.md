@@ -69,7 +69,7 @@
 | Sophos XGS Firewall Site-to-Site RED tunnel LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main"> Sophos Site-to-Site RED tunnel LAB|
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main"> Compiling Software from Source Code: ProFTPD|
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main"> Bash Script to Drop a list of IP Addresses|
-| BASH Scripting LAB|<a href=""> Bash Script to Test Network Connections|
+| BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main"> Bash Script to Test Network Connections|
 
 
 
@@ -111,7 +111,7 @@
 ## Bash Scripting Projects
 - <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
 - <a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main">Bash Script to Drop a list of IP Addresses
-- <a href="">Shell Bash Script to Test Network Connections
+- <a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main">Shell Bash Script to Test Network Connections
 
 
 
