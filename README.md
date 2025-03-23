@@ -67,6 +67,9 @@
 | Sophos IPsec site-to site-in Azure LAB |<a href="https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main"> Sophos IPsec site-to site-in Azure LAB|
 | Sophos XGS Firewall SD-RED Configuration LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-SD-RED-Configuration-LAB/tree/main"> Sophos XGS Firewall SD-RED Configuration LAB|
 | Sophos XGS Firewall Site-to-Site RED tunnel LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main"> Sophos Site-to-Site RED tunnel LAB|
+| BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main"> Compiling Software from Source Code: ProFTPD|
+
+
 
 
 
@@ -104,7 +107,7 @@
 </div>
 
 ## Bash Scripting Projects
-- <a href="">Compiling Software from Source Code: ProFTPD
+- <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
 - <a href="">Bash Script to Drop a list of IP Addresses
 - <a href="">Shell Bash Script to Test Network Connections
 
