@@ -26,8 +26,6 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
-| Building and configuring a Firewall in Linux  |<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Security and Compliance Lab|
-| Password Cracking with John the Ripper |<a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main"> Password Cracking & Brute Force Techniques Lab|
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration Lab|
 | Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration Lab|
@@ -74,6 +72,7 @@
 | Setting Up a Web and DNS Server in Linux|<a href=""> Setting Up a Web and DNS Server LAB|
 | Running a Virtual Mail Server in Linux|<a href=""> Running a Virtual Mail Server LAB|
 | Automating Linux Administrative Tasks|<a href=""> Automating Linux Administrative Tasks LAB|
+| Configuring UFW Firewall in Linux  |<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Security and Compliance Lab|
 
 
 ## Tools
@@ -144,8 +143,7 @@
 - <a href="">Setting Up a Web and DNS Server</a>
 - <a href="">Running a Virtual Mail Server</a>
 - <a href="">Automating Linux Administrative Tasks</a>
-- <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
-- <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
+- <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
 
 ## Python Network Automation Labs
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
