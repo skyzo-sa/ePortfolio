@@ -103,6 +103,13 @@
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+## Bash Scripting Projects
+- <a href="">Compiling Software from Source Code: ProFTPD
+- <a href="">Bash Script to Drop a list of IP Addresses
+- <a href="">Shell Bash Script to Test Network Connections
+
+
+
 
 ## Microsoft Azure Projects
 - <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Managing Microsoft Entra ID Identities
