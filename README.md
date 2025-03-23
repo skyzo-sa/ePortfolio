@@ -27,8 +27,6 @@
 |-----------------------------------------------|----------------------------|
 | Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
 | Building and configuring a Firewall in Linux  |<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Security and Compliance Lab|
-| Setting up and securing a Web Server |<a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main"> Security and Compliance Lab|
-| Network Scanning and Mapping with Nmap |<a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main"> Network Scanning Lab|
 | Password Cracking with John the Ripper |<a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main"> Password Cracking & Brute Force Techniques Lab|
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration Lab|
@@ -70,10 +68,12 @@
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main"> Compiling Software from Source Code: ProFTPD|
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main"> Bash Script to Drop a list of IP Addresses|
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main"> Bash Script to Test Network Connections|
-
-
-
-
+| Configuring a Linux Server from Scratch|<a href=""> Configuring a Linux Server (VPS, DNS, WEB, PHP, MySql, WordPress) LAB|
+| Running Containerized Applications with Docker|<a href=""> Running Containerized Applications with Docker LAB|
+| Securing and Hardening a Linux System|<a href=""> Securing and Hardening a Linux System LAB|
+| Setting Up a Web and DNS Server in Linux|<a href=""> Setting Up a Web and DNS Server LAB|
+| Running a Virtual Mail Server in Linux|<a href=""> Running a Virtual Mail Server LAB|
+| Automating Linux Administrative Tasks|<a href=""> Automating Linux Administrative Tasks LAB|
 
 
 ## Tools
@@ -108,12 +108,12 @@
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
+
+
 ## Bash Scripting Projects
 - <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
 - <a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main">Bash Script to Drop a list of IP Addresses
 - <a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main">Shell Bash Script to Test Network Connections
-
-
 
 
 ## Microsoft Azure Projects
@@ -137,9 +137,14 @@
 - <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 
 ## Linux SysAdmin Projects
+
+- <a href="">Configuring a Linux Server from scratch (VPS, DNS, WEB, PHP, MySql, WordPress)</a>
+- <a href="">Running Containerized Applications with Docker</a>
+- <a href="">Securing and Hardening a Linux System</a>
+- <a href="">Setting Up a Web and DNS Server</a>
+- <a href="">Running a Virtual Mail Server</a>
+- <a href="">Automating Linux Administrative Tasks</a>
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Building and configuring a Firewall in Linux</a>
-- <a href="https://github.com/Skyzo-hub/Setup-and-secure-a-Web-Server/tree/main">Setting up and securing a Web Server</a>
-- <a href="https://github.com/Skyzo-hub/Network-Scanning-and-Mapping-with-Nmap/tree/main">Network Scanning and Mapping with Nmap</a>
 - <a href="https://github.com/Skyzo-hub/Password-Cracking-with-John-the-Ripper/tree/main">Password Cracking with John the Ripper</a>
 
 ## Python Network Automation Labs
