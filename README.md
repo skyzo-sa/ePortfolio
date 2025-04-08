@@ -21,10 +21,8 @@
     <img src="https://img.shields.io/badge/-Sophos-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
 </div>
 
-## Bash Scripting Projects
-- <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
-- <a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main">Bash Script to Drop a list of IP Addresses
-- <a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main">Shell Bash Script to Test Network Connections
+## Windows Server AD Environment Projects
+- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 
 
 ## Microsoft Azure Projects
@@ -44,21 +42,30 @@
 - <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implementing Monitoring
 - <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
 
-## Windows Server AD Environment Projects
-- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
+## Bash Scripting Projects
+- <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
+- <a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main">Bash Script to Drop a list of IP Addresses
+- <a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main">Shell Bash Script to Test Network Connections
 
 ## Linux SysAdmin Projects
-
 - <a href="https://github.com/skyzo-sa/Running-a-Web-Server-in-a-Docker-Container/tree/main">Running a Web Server in a Docker Container</a>
 - <a href="https://github.com/skyzo-sa/Running-a-Virtual-Mail-Server/tree/main">Running a Virtual Mail Server</a>
 
-## Securing and Hardening a Linux System
+## Securing & Hardening a Linux System
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
+- <a href="">CRACKING PASSWORD HASHES USING JOHN THE RIPPER</a>
+- <a href="">Full Disk Encryption</a>
+- <a href="">Locking or Disabling User Accounts</a>
+- <a href="">Scanning for Networks with Nmap</a>
+- <a href="">Scanning for Rootkits</a>
+- <a href="">Scanning for Viruses with ClamAV</a>
+- <a href="">Securing the OpenSSH Server</a>
+- <a href="">Steganography with Steghide</a>
 
 ## Python Network Automation Labs
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
 
-## Cisco CCNA Network Engineering Labs
+## Network Engineering CCNA Labs
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
 - <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
 - <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
