@@ -50,7 +50,8 @@
 ## Linux SysAdmin Projects
 
 - <a href="https://github.com/skyzo-sa/Running-a-Web-Server-in-a-Docker-Container/tree/main">Running a Web Server in a Docker Container</a>
-- <a href="">Running a Virtual Mail Server</a>
+- <a href="https://github.com/skyzo-sa/Running-a-Virtual-Mail-Server/tree/main">Running a Virtual Mail Server</a>
+
 ## Securing and Hardening a Linux System
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
 
