@@ -21,6 +21,74 @@
     <img src="https://img.shields.io/badge/-Sophos-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
 </div>
 
+## Bash Scripting Projects
+- <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
+- <a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main">Bash Script to Drop a list of IP Addresses
+- <a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main">Shell Bash Script to Test Network Connections
+
+
+## Microsoft Azure Projects
+- <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Managing Microsoft Entra ID Identities
+- <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Managing Subscriptions and RBAC
+- <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Managing Governance via Azure Policy
+- <a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main">Managing Azure resources by using ARM Templates
+- <a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main">Implementing Virtual Networking
+- <a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main">Implementing Intersite Connectivity
+- <a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main">Implementing Traffic Management
+- <a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main">Managing Azure storage
+- <a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main">Managing Virtual Machines
+- <a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main">Implementing Web Apps
+- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main">Implementing Azure Container Instances
+- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main">Implementing Azure Container Apps
+- <a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main">Implementing Data Protection
+- <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implementing Monitoring
+- <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
+
+## Windows Server AD Environment Projects
+- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
+
+## Linux SysAdmin Projects
+
+- <a href="">Configuring a Linux Server from scratch (VPS, DNS, WEB, PHP, MySql, WordPress)</a>
+- <a href="">Running Containerized Applications with Docker</a>
+- <a href="">Securing and Hardening a Linux System</a>
+- <a href="">Setting Up a Web and DNS Server</a>
+- <a href="">Running a Virtual Mail Server</a>
+- <a href="">Automating Linux Administrative Tasks</a>
+- <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
+
+## Python Network Automation Labs
+-  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
+
+## Cisco CCNA Network Engineering Labs
+- <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
+- <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
+- <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
+
+## Sophos XG Firewall Projects
+- <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Static Routing LAB</a>
+- <a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main">Firewall Rules LAB</a>
+- <a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main">IPsec LAB</a>
+- <a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main">Creating VLANs in Sophos XGS Firewall LAB</a>
+- <a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main">Deploying Sophos firewall in Azure LAB</a>
+- <a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main">RDP Access to Azure Windows VM LAB</a>
+- <a href="https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main">Sophos IPsec site-to site-in Azure LAB</a>
+- <a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-SD-RED-Configuration-LAB/tree/main">Sophos XGS Firewall SD-RED Configuration LAB</a>
+- <a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main">Sophos XGS Firewall Site-to-Site RED tunnel LAB</a>
+
+### Foritgate Firewall Projects
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">Administration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">Interfaces Configuration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">NAT & Transparent Mode LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">Routing & Security Profiles LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">Authentication LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">High Availability (Active-Active) LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">Software Defined SD-WAN LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN Configuration LAB</a>
+- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">Assignment 1: Project 1 LAB</a>
+
+
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -106,74 +174,6 @@
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
-
-
-
-## Bash Scripting Projects
-- <a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main">Compiling Software from Source Code: ProFTPD
-- <a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main">Bash Script to Drop a list of IP Addresses
-- <a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main">Shell Bash Script to Test Network Connections
-
-
-## Microsoft Azure Projects
-- <a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main">Managing Microsoft Entra ID Identities
-- <a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main">Managing Subscriptions and RBAC
-- <a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main">Managing Governance via Azure Policy
-- <a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main">Managing Azure resources by using ARM Templates
-- <a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main">Implementing Virtual Networking
-- <a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main">Implementing Intersite Connectivity
-- <a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main">Implementing Traffic Management
-- <a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main">Managing Azure storage
-- <a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main">Managing Virtual Machines
-- <a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main">Implementing Web Apps
-- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main">Implementing Azure Container Instances
-- <a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main">Implementing Azure Container Apps
-- <a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main">Implementing Data Protection
-- <a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main">Implementing Monitoring
-- <a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main">Setting up a Virtual Private Cloud (VPC) in Azure
-
-## Windows Server AD Environment Projects
-- <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
-
-## Linux SysAdmin Projects
-
-- <a href="">Configuring a Linux Server from scratch (VPS, DNS, WEB, PHP, MySql, WordPress)</a>
-- <a href="">Running Containerized Applications with Docker</a>
-- <a href="">Securing and Hardening a Linux System</a>
-- <a href="">Setting Up a Web and DNS Server</a>
-- <a href="">Running a Virtual Mail Server</a>
-- <a href="">Automating Linux Administrative Tasks</a>
-- <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
-
-## Python Network Automation Labs
--  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
-
-## Cisco CCNA Network Engineering Labs
-- <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
-- <a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main">VLAN and Inter-VLAN Routing Configuration</a>
-- <a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main">Port Security Configuration – Lab</a>
-
-## Sophos XG Firewall Projects
-- <a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main">Static Routing LAB</a>
-- <a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main">Firewall Rules LAB</a>
-- <a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main">IPsec LAB</a>
-- <a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main">Creating VLANs in Sophos XGS Firewall LAB</a>
-- <a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main">Deploying Sophos firewall in Azure LAB</a>
-- <a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main">RDP Access to Azure Windows VM LAB</a>
-- <a href="https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main">Sophos IPsec site-to site-in Azure LAB</a>
-- <a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-SD-RED-Configuration-LAB/tree/main">Sophos XGS Firewall SD-RED Configuration LAB</a>
-- <a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main">Sophos XGS Firewall Site-to-Site RED tunnel LAB</a>
-
-### Foritgate Firewall Projects
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main">Administration LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main">Interfaces Configuration LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main">NAT & Transparent Mode LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main">Routing & Security Profiles LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main">Authentication LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main">High Availability (Active-Active) LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main">Software Defined SD-WAN LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main">VPN Configuration LAB</a>
-- <a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main">Assignment 1: Project 1 LAB</a>
 
 
 ## 🤳 Connect with Me
