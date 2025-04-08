@@ -49,12 +49,9 @@
 
 ## Linux SysAdmin Projects
 
-- <a href="">Configuring a Linux Server from scratch (VPS, DNS, WEB, PHP, MySql, WordPress)</a>
-- <a href="">Running Containerized Applications with Docker</a>
-- <a href="">Securing and Hardening a Linux System</a>
-- <a href="">Setting Up a Web and DNS Server</a>
+- <a href="">Running a Web Server in a Docker Container</a>
 - <a href="">Running a Virtual Mail Server</a>
-- <a href="">Automating Linux Administrative Tasks</a>
+## Securing and Hardening a Linux System
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
 
 ## Python Network Automation Labs
