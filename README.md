@@ -54,7 +54,7 @@
 ## Securing & Hardening a Linux System
 - <a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main">Configuring a UFW Firewall in Linux</a>
 - <a href="https://github.com/skyzo-sa/CRACKING-PASSWORD-HASHES-USING-JOHN-THE-RIPPER/tree/main">CRACKING PASSWORD HASHES USING JOHN THE RIPPER</a>
-- <a href="">Full Disk Encryption</a>
+- <a href="https://github.com/skyzo-sa/Full-Disk-Encryption/tree/main">Full Disk Encryption</a>
 - <a href="">Locking or Disabling User Accounts</a>
 - <a href="">Scanning for Networks with Nmap</a>
 - <a href="">Scanning for Rootkits</a>
