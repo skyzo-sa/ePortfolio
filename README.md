@@ -59,7 +59,7 @@
 - <a href="https://github.com/skyzo-sa/Scanning-for-Networks-with-Nmap/tree/main">Scanning for Networks with Nmap</a>
 - <a href="https://github.com/skyzo-sa/Scanning-for-Rootkits-/tree/main">Scanning for Rootkits</a>
 - <a href="https://github.com/skyzo-sa/Scanning-for-Viruses-with-ClamAV/tree/main">Scanning for Viruses with ClamAV</a>
-- <a href="">Securing the OpenSSH Server</a>
+- <a href="https://github.com/skyzo-sa/Securing-the-OpenSSH-Server/tree/main">Securing the OpenSSH Server</a>
 - <a href="">Steganography with Steghide</a>
 
 ## Python Network Automation Labs
