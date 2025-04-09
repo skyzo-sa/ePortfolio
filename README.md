@@ -60,7 +60,7 @@
 - <a href="https://github.com/skyzo-sa/Scanning-for-Rootkits-/tree/main">Scanning for Rootkits</a>
 - <a href="https://github.com/skyzo-sa/Scanning-for-Viruses-with-ClamAV/tree/main">Scanning for Viruses with ClamAV</a>
 - <a href="https://github.com/skyzo-sa/Securing-the-OpenSSH-Server/tree/main">Securing the OpenSSH Server</a>
-- <a href="">Steganography with Steghide</a>
+- <a href="https://github.com/skyzo-sa/Steganography-with-Steghide/tree/main">Steganography with Steghide</a>
 
 ## Python Network Automation Labs
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
@@ -139,13 +139,17 @@
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main"> Compiling Software from Source Code: ProFTPD|
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main"> Bash Script to Drop a list of IP Addresses|
 | BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main"> Bash Script to Test Network Connections|
-| Configuring a Linux Server from Scratch|<a href=""> Configuring a Linux Server (VPS, DNS, WEB, PHP, MySql, WordPress) LAB|
-| Running Containerized Applications with Docker|<a href=""> Running Containerized Applications with Docker LAB|
-| Securing and Hardening a Linux System|<a href=""> Securing and Hardening a Linux System LAB|
-| Setting Up a Web and DNS Server in Linux|<a href=""> Setting Up a Web and DNS Server LAB|
-| Running a Virtual Mail Server in Linux|<a href=""> Running a Virtual Mail Server LAB|
-| Automating Linux Administrative Tasks|<a href=""> Automating Linux Administrative Tasks LAB|
-| Configuring UFW Firewall in Linux  |<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Security and Compliance Lab|
+| Running Containerized Applications with Docker|<a href="https://github.com/skyzo-sa/Running-a-Web-Server-in-a-Docker-Container/tree/main"> Running a Web Server in a Docker Container LAB|
+| Running a Virtual Mail Server in Linux|<a href="https://github.com/skyzo-sa/Running-a-Virtual-Mail-Server/tree/main"> Running a Virtual Mail Server LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Configuring a UFW Firewall in Linux LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/CRACKING-PASSWORD-HASHES-USING-JOHN-THE-RIPPER/tree/main"> CRACKING PASSWORD HASHES USING JOHN THE RIPPER LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Full-Disk-Encryption/tree/main"> Full Disk Encryption LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Locking-or-Disabling-User-Accounts/tree/main"> Locking or Disabling User Accounts LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Scanning-for-Networks-with-Nmap/tree/main"> Scanning for Networks with Nmap LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Scanning-for-Rootkits-/tree/main"> Scanning for Rootkits LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Scanning-for-Viruses-with-ClamAV/tree/main"> Scanning for Viruses with ClamAV LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Securing-the-OpenSSH-Server/tree/main"> Securing the OpenSSH Server LAB|
+| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Steganography-with-Steghide/tree/main"> Steganography with Steghide LAB|
 
 
 ## Tools
