@@ -33,6 +33,8 @@
 - <a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main">Setting up Windows AD & Azure AD environment</a>
 
 ## Network Engineering Projects
+
+- <a href="https://github.com/skyzo-sa/cisco-network-security-lab/tree/main">Cisco Network Security Lab</a>
 - <a href="https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main">Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP</a>
 - <a href="https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main">Redundant Campus Network Lab</a>
 - <a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main">DHCP Configuration – Lab</a>
@@ -113,6 +115,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Cisco Network Security Lab |<a href="https://github.com/skyzo-sa/cisco-network-security-lab/tree/main"> Network Engineering Lab|
 | Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP |<a href="https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main"> Network Engineering Lab|
 | Redundant Campus Network Lab |<a href="https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main"> Network Engineering Lab|
 | Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
