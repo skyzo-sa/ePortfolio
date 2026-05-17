@@ -44,6 +44,7 @@
 ## Python and Scripting Projects
 
 ### Network Automation Projects
+-  <a href="https://github.com/skyzo-sa/Network-Automation-with-Paramiko/tree/main">Cisco IOSv Network Automation with Paramiko Lab</a>
 -  <a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main">Web Base Network Automation Lab</a>
 
 ### Bash Scripting Projects
@@ -118,6 +119,7 @@
 | Cisco Network Security Lab |<a href="https://github.com/skyzo-sa/cisco-network-security-lab/tree/main"> Network Engineering Lab|
 | Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP |<a href="https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main"> Network Engineering Lab|
 | Redundant Campus Network Lab |<a href="https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main"> Network Engineering Lab|
+| Cisco IOSv Network Automation with Paramiko |<a href="https://github.com/skyzo-sa/Network-Automation-with-Paramiko/tree/main"> Network Automation Lab|
 | Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
 | VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
 | DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration Lab|
