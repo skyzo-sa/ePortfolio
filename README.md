@@ -34,6 +34,7 @@
 
 ## Network Engineering Projects
 
+- <a href="https://github.com/skyzo-sa/cisco-enterprise-campus-network-implementation-lab/main">Enterprise Campus Network Implementation lab</a>
 - <a href="https://github.com/skyzo-sa/cisco-network-security-lab/tree/main">Cisco Network Security Lab</a>
 - <a href="https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main">Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP</a>
 - <a href="https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main">Redundant Campus Network Lab</a>
@@ -116,6 +117,8 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+
+| Enterprise Campus Network Implementation lab |<a href="https://github.com/skyzo-sa/cisco-enterprise-campus-network-implementation-lab/main"> Network Engineering Lab|
 | Cisco Network Security Lab |<a href="https://github.com/skyzo-sa/cisco-network-security-lab/tree/main"> Network Engineering Lab|
 | Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP |<a href="https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main"> Network Engineering Lab|
 | Redundant Campus Network Lab |<a href="https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main"> Network Engineering Lab|
