@@ -115,68 +115,58 @@
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-
-| Enterprise Campus Network Implementation lab |<a href="https://github.com/skyzo-sa/cisco-enterprise-campus-network-implementation-lab"> Network Engineering Lab|
-
-| Cisco Network Security Lab |<a href="https://github.com/skyzo-sa/cisco-network-security-lab/tree/main"> Network Engineering Lab|
-| Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP |<a href="https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main"> Network Engineering Lab|
-| Redundant Campus Network Lab |<a href="https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main"> Network Engineering Lab|
-| Cisco IOSv Network Automation with Paramiko |<a href="https://github.com/skyzo-sa/Network-Automation-with-Paramiko/tree/main"> Network Automation Lab|
-| Setting up Windows AD & Azure AD environment |<a href="https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main"> System Administration Lab|
-| VLAN and Inter-VLAN Routing Configuration |<a href="https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main"> Networking and Security Lab|
-| DHCP Configuration – Lab |<a href="https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main"> DHCP Configuration Lab|
-| Port Security Configuration  – Lab |<a href="https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main"> Port Security Configuration Lab|
-| Administering Identity |<a href="https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main"> Managing Microsoft Entra ID Identities Lab|
-| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main"> Managing Subscriptions and RBAC Lab|
-| Administering Governance and Compliance |<a href="https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main"> Managing Governance via Azure Policy Lab|
-| Administering Azure Resources |<a href="https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main"> Managing Azure resources Lab|
-| Implementing Virtual Networking |<a href="https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main"> Implementing Virtual Networking Lab|
-| Administering Intersite Connectivity |<a href="https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main"> Implementing Intersite Connectivity Lab|
-| Administering Network Traffic Management |<a href="https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main"> Implementing Traffic Management Lab|
-| Administering Azure Storage |<a href="https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main"> Managing Azure storage Lab|
-| Administering Virtual Machines |<a href="https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main"> Managing Virtual Machines Lab|
-| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main"> Implementing Web Apps Lab|
-| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main"> Implementing Azure Container Instances Lab|
-| Administering PaaS Compute Options |<a href="https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main"> Implementing Azure Container Apps Lab|
-| Administering Data Protection |<a href="https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main"> Implementing Data Protection Lab|
-| Administering Monitoring |<a href="https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main"> Implementing Monitoring Lab|
-| Building a Virtual Private Cloud (VPC) in Azure |<a href="https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main"> Cloud Administration (Azure) Lab|
-| Building a Web Base Network Automation |<a href="https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main"> Python Network Automation Lab|
-| FortiGate Firewall Administration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main"> Administration LAB|
-| FortiGate Firewall Interfaces Configuration LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main"> Interfaces Configuration LAB|
-| FortiGate Firewall NAT & TP Mode LAB |<a href="https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main"> NAT & Transparent Mode LAB|
-| FortiGate Firewall Routing & Security Profiles LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main"> Routing & Security Profiles LAB|
-| FortiGate Firewall Authentication LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main"> FortiGate FW - Authentication LAB|
-| FortiGate Firewall High Availability (A-A) LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main"> High Availability (A-A) LAB|
-| FortiGate Firewall SD-WAN Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main"> Software Defined SD-WAN Lab|
-| FortiGate Firewall VPN configuration Lab |<a href="https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main"> VPN Configuration Lab|
-| FortiGate Firewall - Project 1 LAB |<a href="https://github.com/tmpanza-lab/FortiGate-Firewall-Assignment-1/tree/main"> Assignment 1: Project 1 LAB|
-| Sophos XG Firewall - Static Routing LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main"> Static Routing LAB|
-| Sophos XG Firewall - Firewall Rules LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main"> Sophos XG Firewall - Firewall Rules LAB|
-| Sophos XG Firewall - IPsec LAB |<a href="https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main"> IPsec LAB|
-| Sophos XGS Firewall - VLANs in Sophos XGS Firewall LAB |<a href="https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main"> VLANs in Sophos XGS Firewall LAB|
-| Deploying Sophos firewall in Azure LAB |<a href="https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main"> Deploying Sophos firewall in Azure LAB|
-| RDP Access to Azure Windows VM LAB |<a href="https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main"> RDP Access to Azure Windows VM LAB|
-| Sophos IPsec site-to site-in Azure LAB |<a href="https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main"> Sophos IPsec site-to site-in Azure LAB|
-| Sophos XGS Firewall SD-RED Configuration LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-SD-RED-Configuration-LAB/tree/main"> Sophos XGS Firewall SD-RED Configuration LAB|
-| Sophos XGS Firewall Site-to-Site RED tunnel LAB |<a href="https://github.com/skyzo-sa/Sophos-XGS-Firewall-Site-to-Site-RED-tunnel-LAB/tree/main"> Sophos Site-to-Site RED tunnel LAB|
-| BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main"> Compiling Software from Source Code: ProFTPD|
-| BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main"> Bash Script to Drop a list of IP Addresses|
-| BASH Scripting LAB|<a href="https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main"> Bash Script to Test Network Connections|
-| Running Containerized Applications with Docker|<a href="https://github.com/skyzo-sa/Running-a-Web-Server-in-a-Docker-Container/tree/main"> Running a Web Server in a Docker Container LAB|
-| Running a Virtual Mail Server in Linux|<a href="https://github.com/skyzo-sa/Running-a-Virtual-Mail-Server/tree/main"> Running a Virtual Mail Server LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main"> Configuring a UFW Firewall in Linux LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/CRACKING-PASSWORD-HASHES-USING-JOHN-THE-RIPPER/tree/main"> CRACKING PASSWORD HASHES USING JOHN THE RIPPER LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Full-Disk-Encryption/tree/main"> Full Disk Encryption LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Locking-or-Disabling-User-Accounts/tree/main"> Locking or Disabling User Accounts LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Scanning-for-Networks-with-Nmap/tree/main"> Scanning for Networks with Nmap LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Scanning-for-Rootkits-/tree/main"> Scanning for Rootkits LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Scanning-for-Viruses-with-ClamAV/tree/main"> Scanning for Viruses with ClamAV LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Securing-the-OpenSSH-Server/tree/main"> Securing the OpenSSH Server LAB|
-| Securing and Hardening a Linux System|<a href="https://github.com/skyzo-sa/Steganography-with-Steghide/tree/main"> Steganography with Steghide LAB|
-
+| Skill | Associated Project |
+|---|---|
+| Enterprise Campus Network Implementation Lab | [Network Engineering Lab](https://github.com/skyzo-sa/cisco-enterprise-campus-network-implementation-lab) |
+| Cisco Network Security Lab | [Network Engineering Lab](https://github.com/skyzo-sa/cisco-network-security-lab/tree/main) |
+| Enterprise Dynamic Routing Lab – Multi-Area OSPF & EIGRP | [Network Engineering Lab](https://github.com/skyzo-sa/Enterprise-Dynamic-Routing-Lab-Multi-Area-OSPF-EIGRP/tree/main) |
+| Redundant Campus Network Lab | [Network Engineering Lab](https://github.com/skyzo-sa/Redundant-Campus-Network-Lab/tree/main) |
+| Cisco IOSv Network Automation with Paramiko | [Network Automation Lab](https://github.com/skyzo-sa/Network-Automation-with-Paramiko/tree/main) |
+| Setting up Windows AD & Azure AD Environment | [System Administration Lab](https://github.com/Skyzo-hub/Setting-up-Windows-AD-Azure-AD-environment/tree/main) |
+| VLAN and Inter-VLAN Routing Configuration | [Networking and Security Lab](https://github.com/tmpanza-lab/VLAN-and-Inter-VLAN-Routing-Configuration/tree/main) |
+| DHCP Configuration – Lab | [DHCP Configuration Lab](https://github.com/tmpanza-lab/DHCP-Configuration-Lab/tree/main) |
+| Port Security Configuration – Lab | [Port Security Configuration Lab](https://github.com/tmpanza-lab/Port-Security-Configuration-Lab-/tree/main) |
+| Administering Identity | [Managing Microsoft Entra ID Identities Lab](https://github.com/tmpanza-lab/Managing-Microsoft-Entra-ID-Identities/tree/main) |
+| Administering Governance and Compliance | [Managing Subscriptions and RBAC Lab](https://github.com/tmpanza-lab/Manage-Subscriptions-and-RBAC/tree/main) |
+| Administering Governance and Compliance | [Managing Governance via Azure Policy Lab](https://github.com/tmpanza-lab/Manage-Governance-via-Azure-Policy/tree/main) |
+| Administering Azure Resources | [Managing Azure Resources Lab](https://github.com/tmpanza-lab/Managing-Azure-resources-by-using-Azure-Resource-Manager-ARM-Templates/tree/main) |
+| Implementing Virtual Networking | [Implementing Virtual Networking Lab](https://github.com/tmpanza-lab/Implementing-Virtual-Networking/tree/main) |
+| Administering Intersite Connectivity | [Implementing Intersite Connectivity Lab](https://github.com/tmpanza-lab/Implementing-Intersite-Connectivity/tree/main) |
+| Administering Network Traffic Management | [Implementing Traffic Management Lab](https://github.com/tmpanza-lab/Implementing-Traffic-Management/tree/main) |
+| Administering Azure Storage | [Managing Azure Storage Lab](https://github.com/tmpanza-lab/Manage-Azure-Storage/tree/main) |
+| Administering Virtual Machines | [Managing Virtual Machines Lab](https://github.com/tmpanza-lab/Managing-Virtual-Machines/tree/main) |
+| Administering PaaS Compute Options | [Implementing Web Apps Lab](https://github.com/tmpanza-lab/Implementing-Web-Apps/tree/main) |
+| Administering PaaS Compute Options | [Implementing Azure Container Instances Lab](https://github.com/tmpanza-lab/Implementing-Azure-Container-Instances/tree/main) |
+| Administering PaaS Compute Options | [Implementing Azure Container Apps Lab](https://github.com/tmpanza-lab/Implementing-Azure-Container-Apps/tree/main) |
+| Administering Data Protection | [Implementing Data Protection Lab](https://github.com/tmpanza-lab/Implementing-Data-Protection/tree/main) |
+| Administering Monitoring | [Implementing Monitoring Lab](https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main) |
+| Building a Virtual Private Cloud (VPC) in Azure | [Cloud Administration (Azure) Lab](https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main) |
+| Building a Web Based Network Automation | [Python Network Automation Lab](https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main) |
+| FortiGate Firewall Administration LAB | [Administration LAB](https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main) |
+| FortiGate Firewall Interfaces Configuration LAB | [Interfaces Configuration LAB](https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main) |
+| FortiGate Firewall NAT & Transparent Mode LAB | [NAT & Transparent Mode LAB](https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main) |
+| FortiGate Firewall Routing & Security Profiles LAB | [Routing & Security Profiles LAB](https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main) |
+| FortiGate Firewall Authentication LAB | [Authentication LAB](https://github.com/tmpanza-lab/FortiGate-Firewall---Authentication-LAB/tree/main) |
+| FortiGate Firewall High Availability (A-A) LAB | [High Availability LAB](https://github.com/tmpanza-lab/FortiGate-Firewall-High-Availability-Active-Active-LAB/tree/main) |
+| FortiGate Firewall SD-WAN Lab | [Software Defined SD-WAN Lab](https://github.com/tmpanza-lab/FortiGate-FW-SD-WAN-LAB/tree/main) |
+| FortiGate Firewall VPN Configuration Lab | [VPN Configuration Lab](https://github.com/tmpanza-lab/FortiGate-FW-VPN-Lab/tree/main) |
+| Sophos XG Firewall – Static Routing LAB | [Static Routing LAB](https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main) |
+| Sophos XG Firewall – Firewall Rules LAB | [Firewall Rules LAB](https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main) |
+| Sophos XG Firewall – IPsec LAB | [IPsec LAB](https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main) |
+| Sophos XGS Firewall – VLANs | [VLANs Lab](https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main) |
+| Deploying Sophos Firewall in Azure | [Azure Sophos Firewall Lab](https://github.com/skyzo-sa/Deploying-Sophos-firewall-in-Azure-LAB/tree/main) |
+| RDP Access to Azure Windows VM | [RDP Access Lab](https://github.com/skyzo-sa/RDP-Access-to-Azure-Windows-VM-LAB/tree/main) |
+| Sophos IPsec Site-to-Site in Azure | [IPsec Site-to-Site Lab](https://github.com/skyzo-sa/Sophos-IPsec-site-to-site-in-Azure-LAB/tree/main) |
+| Bash Scripting | [Compiling ProFTPD](https://github.com/skyzo-sa/Compiling-Software-from-Source-Code-ProFTPD/tree/main) |
+| Bash Scripting | [Drop a List of IP Addresses](https://github.com/skyzo-sa/Bash-Script-to-Drop-a-list-of-IP-Addresses/tree/main) |
+| Bash Scripting | [Test Network Connections](https://github.com/skyzo-sa/Bash-Script-to-Test-Network-Connections/tree/main) |
+| Docker | [Running a Web Server in a Docker Container](https://github.com/skyzo-sa/Running-a-Web-Server-in-a-Docker-Container/tree/main) |
+| Linux Administration | [Running a Virtual Mail Server](https://github.com/skyzo-sa/Running-a-Virtual-Mail-Server/tree/main) |
+| Linux Security | [UFW Firewall](https://github.com/Skyzo-hub/Building-and-configuring-a-Firewall-in-Linux/tree/main) |
+| Linux Security | [John the Ripper](https://github.com/skyzo-sa/CRACKING-PASSWORD-HASHES-USING-JOHN-THE-RIPPER/tree/main) |
+| Linux Security | [Full Disk Encryption](https://github.com/skyzo-sa/Full-Disk-Encryption/tree/main) |
+| Linux Security | [OpenSSH Hardening](https://github.com/skyzo-sa/Securing-the-OpenSSH-Server/tree/main) |
+| Linux Security | [Steganography with Steghide](https://github.com/skyzo-sa/Steganography-with-Steghide/tree/main) |
 
 ## Tools
 
