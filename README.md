@@ -58,6 +58,7 @@
 | Administering Monitoring | [Implementing Monitoring Lab](https://github.com/tmpanza-lab/Implementing-Monitoring/tree/main) |
 | Building a Virtual Private Cloud (VPC) in Azure | [Cloud Administration (Azure) Lab](https://github.com/tmpanza-lab/Setting-up-a-Virtual-Private-Cloud-VPC-in-Azure/tree/main) |
 | Building a Web Based Network Automation | [Python Network Automation Lab](https://github.com/tmpanza-lab/Web-Base-Network-Automation-Lab/tree/main) |
+| FortiGate SD-WAN Dual ISP Lab | [FortiGate SD-WAN Dual ISP Lab](https://github.com/skyzo-sa/fortigate-sd-wan-dual-isp/tree/main) |
 | FortiGate Firewall Administration LAB | [Administration LAB](https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main) |
 | FortiGate Firewall Interfaces Configuration LAB | [Interfaces Configuration LAB](https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main) |
 | FortiGate Firewall NAT & Transparent Mode LAB | [NAT & Transparent Mode LAB](https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main) |
@@ -123,6 +124,7 @@
 ### Sophos Firewall
 
 - [Static Routing Lab](https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main)
+- [Static Routing Lab](https://github.com/tmpanza-lab/XG-Firewall-Static-Routing-LAB/tree/main)
 - [Firewall Rules Lab](https://github.com/tmpanza-lab/XG-Firewall---Firewall-Rules-LAB/tree/main)
 - [IPsec Lab](https://github.com/tmpanza-lab/XG-Firewall---IPsec-LAB/tree/main)
 - [Creating VLANs in Sophos XGS Firewall](https://github.com/skyzo-sa/FortiGate-Firewall---VLANs-in-XGS-Firewall/tree/main)
@@ -134,7 +136,7 @@
 
 ### FortiGate Firewall
 
-- [Administration Lab](https://github.com/tmpanza-lab/FortiGate-Firewall---Administration-LAB/tree/main)
+- [FortiGate SD-WAN Dual ISP Lab](https://github.com/skyzo-sa/fortigate-sd-wan-dual-isp/tree/main)
 - [Interfaces Configuration Lab](https://github.com/tmpanza-lab/FortiGate-Firewall---Interfaces-Configuration-LAB/tree/main)
 - [NAT & Transparent Mode Lab](https://github.com/tmpanza-lab/FortiGate-FW---NAT-Transparent-Mode-LAB/tree/main)
 - [Routing & Security Profiles Lab](https://github.com/tmpanza-lab/FortiGate-Firewall---Routing-LAB/tree/main)
